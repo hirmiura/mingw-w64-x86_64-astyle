@@ -1,9 +1,9 @@
-# mingw-w64-x86_64-astyle
+# mingw-w64-x86_64-astyle 3.0.1
 
 ## Install
 ```
 cd package
-pacman -U mingw-w64-x86_64-astyle-3.0.1-1-any.pkg.tar
+pacman -U mingw-w64-x86_64-astyle-3.0.1-1-any.pkg.tar.xz
 ```
 
 ## Build
