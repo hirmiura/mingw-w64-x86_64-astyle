@@ -28,3 +28,7 @@ mingw-w64-x86_64-astyle /mingw64/share/doc/astyle/html/news.html
 mingw-w64-x86_64-astyle /mingw64/share/doc/astyle/html/notes.html
 mingw-w64-x86_64-astyle /mingw64/share/doc/astyle/html/styles.css
 ```
+
+## Pull request
+Already requested.
+https://github.com/Alexpux/MINGW-packages/pull/2819
